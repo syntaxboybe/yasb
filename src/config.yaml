@@ -44,9 +44,9 @@ bars:
           "weather",
           "cpu",
           "memory",
+          "volume",
           "wallapers",
           "github",
-          "volume",
           "power_menu",
         ]
 widgets:
